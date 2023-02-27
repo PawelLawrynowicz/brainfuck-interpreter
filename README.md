@@ -26,7 +26,3 @@ $ mkdir build; cd build
 $ cmake ..
 $ make
 ```
-
-Your tests should be built right now (but they're not passing). It's your task to make them pass.
-The final test is brainfuck interpreter written in brainfuck. If that one passes you can be pretty
-sure that your implementation is correct.
